@@ -1,0 +1,8 @@
+-- delete from users;
+-- delete from properties;
+select * from users;
+-- select * from properties
+
+-- select * from users where users.id = 'b68e6b94-c5e0-4291-1a8c-08dd0d60562b';
+
+-- select * from properties where properties.ownerId='b68e6b94-c5e0-4291-1a8c-08dd0d60562b';
